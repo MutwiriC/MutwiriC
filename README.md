@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MutwiriC
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on data analysis tasks
-- 📫 How to reach me skype christinekmutwiri
+- 💞️ I’m looking to collaborate on data analysis task
 
 <!---
 MutwiriC/MutwiriC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
