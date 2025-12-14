@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MutwiriC
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis task
